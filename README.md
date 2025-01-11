@@ -2,7 +2,7 @@
 
 An open-source, user-friendly, responsive, and accessible portfolio template for developers 🚀⚡
 
-Give a star ⭐ if you find it useful. [Visit site &rarr;](https://.netlify.app/)
+Give a star ⭐ if you find it useful. [Visit site &rarr;](https://rohith5-portfolio.netlify.app/)
 
 ![Portfolio Template Dark Theme](assets/images/dark.png)
 
