@@ -781,6 +781,7 @@ body.dark .work-links img {
 .article-text {
   font-size: var(--text-small);
   margin-block: var(--gutter-x-small);
+  padding-left: 20px;
 }
 
 .article-info {
